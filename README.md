@@ -1,2 +1,2 @@
-# hello-world
-anthor repository
+# Kenny's game
+CS PROJECT: GAME
